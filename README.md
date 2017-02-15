@@ -1,11 +1,11 @@
 # collaborative-whiteboard-with-chat  
 
 Requirements :-  
-1. Install [Nodejs](https://nodejs.org/en/ "NodeJs")  
+1. [Nodejs](https://nodejs.org/en/ "NodeJs")  
 
 How to setup :-  
 1. `cd` to project directory  
-2. start the app by running `node index.js` (It will start the server)  
+2. start the app by running `node index.js` (It will start the server,if gives error then first run `npm install`)  
 3. open [localhost:3000](http://localhost:3000 "localhost") in browser  
 4. There's no step 4 !  
 
