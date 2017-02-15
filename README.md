@@ -9,6 +9,6 @@ How to setup :-
 3. open [localhost:3000](http://localhost:3000 "localhost") in browser  
 4. There's no step 4 !  
 
-To use this app on multiple devices, put the ip of the host(the one running the server) in the browser, with all devices on same device.
+To use this app on multiple devices, put the ip of the host(the one running the server) in the browser, with all devices on same network.
 
 ![alt text](https://github.com/rupinder1133/collaborative-whiteboard-with-chat/blob/master/Demo.gif "Demo")
