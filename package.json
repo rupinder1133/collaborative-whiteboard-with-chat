@@ -1,10 +1,12 @@
 {
-  "name": "socket-chat-example",
+  "name": "scollaborative-whiteboard-with-chat",
   "version": "0.0.1",
-  "description": "my first socket.io app",
+  "description": "collaborative-whiteboard-with-chat",
+  "scripts":{
+    "start":"node index.js"
+  },
   "dependencies": {
     "express": "^4.14.1",
-    "socket.io": "^1.7.2",
-    "nodemon": "latest"
+    "socket.io": "^1.7.2"
   }
 }
